@@ -24,5 +24,10 @@ def labels_generator(path,name):
     df = pd.DataFrame(np.array(df),columns=['file_paths','labels'])
     df.to_csv(f'./data/preprocessed/{name}.csv',index=False)
 
+<<<<<<< HEAD
+labels_generator('D:/Final Year Project/Express-U/data/preprocessed/canny/','canny_labels')
+labels_generator('D:/Final Year Project/Express-U/data/preprocessed/laplacian/','laplacian_labels')
+=======
 labels_generator('E:/Documents/GitHub/Express-U/data/preprocessed/canny/','canny_labels')
 labels_generator('E:/Documents/GitHub/Express-U/data/preprocessed/laplacian/','laplacian_labels')
+>>>>>>> ae6d348f86265ef4d23715bcf33ee97c724a9433
