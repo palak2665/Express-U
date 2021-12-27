@@ -48,8 +48,8 @@ if __name__ == '__main__':
   img = cv2.imread(dir_path,cv2.IMREAD_GRAYSCALE)
   brightened_img = cv2.resize(BrightnessContrast(img),(200,200))
   cv2.imshow('bright',brightened_img)
-  resized_img = cv2.resize(brightened_img,(200,200))
-  blur_img = cv2.GaussianBlur(resized_img,(3,3),0)
+  # resized_img = cv2.resize(brightened_img,(200,200))
+  blur_img = cv2.GaussianBlur(brightened_img,(3,3),0)
 
   cv2.imshow('img',blur_img)
 
