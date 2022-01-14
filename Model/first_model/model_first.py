@@ -4,10 +4,17 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.model_selection import train_test_split
+<<<<<<< HEAD
+from keras.models import Sequential
+from keras.optimizers import Adam
+from keras.preprocessing.image import ImageDataGenerator
+from keras.layers import Conv2D, MaxPool2D, Flatten, Dropout,Dense,ReLU,Softmax
+=======
 from tf.keras.models import Sequential
 from tf.keras.optimizers import Adam
 from tf.keras.preprocessing.image import ImageDataGenerator
 from tf.keras.layers import Conv2D, MaxPool2D, Flatten, Dropout,Dense,ReLU,Softmax
+>>>>>>> ae6d348f86265ef4d23715bcf33ee97c724a9433
 
 # data
 data = pd.read_csv('D:/Final Year Project/Express-U/data/preprocessed/canny_labels.csv')
