@@ -2,10 +2,10 @@ import os
 import numpy as np
 import cv2 
 import string
-#E:\Documents\GitHub\Express-U\data
+
 from skimage import util
-globalfile = 'E:/Documents/Github/Express-U/data/'
-MainDirectory = 'E:/Documents/Github/Express-U/data/Num'
+globalfile = 'D:/Final Year Project/Express-U/data/'
+MainDirectory = 'D:/Final Year Project/Express-U/data/Num'
 a = list(string.ascii_uppercase)
 
 # def preprocessing(path):
@@ -73,7 +73,7 @@ for i in range(1,10):
     for j in range(No_of_files):
         filepath = f'{globalfile}Num/{i}/{j}.jpg'      
         img = cv2.imread(filepath,cv2.IMREAD_GRAYSCALE)
-        brightened_img = cv2.resize(BrightnessContrast(img),(256,256))
+        brightened_img = cv2.resize(BrightnessContrast(img),(200,200))
         # cv2.imshow('bright',brightened_img)
         # resized_img = cv2.resize(brightened_img,(200,200))
         blur_img = cv2.GaussianBlur(brightened_img,(3,3),0)
