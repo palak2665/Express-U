@@ -4,7 +4,7 @@ import keras
 from keras.preprocessing.image import ImageDataGenerator
 import tensorflow as tf
 
-model = keras.models.load_model(r"E:\\Documents\\GitHub\\Express-U\\Model\\second_model\\model_second.h5")
+model = keras.models.load_model(r"E:\\Documents\\GitHub\\Express-U\\Model\\second_model\\model_second_adam.h5")
 
 background = None
 accumulated_weight = 0.5
@@ -84,6 +84,7 @@ while True:
             thresholded = np.reshape(thresholded, (1,thresholded.shape[0],thresholded.shape[1],3))
             
             pred = model.predict(thresholded)
+            print(np.argmax(pred))
             cv2.putText(frame_copy, word_dict[np.argmax(pred)], (170, 45), cv2.FONT_HERSHEY_SIMPLEX, 1, (0,0,255), 2)
             
     cv2.rectangle(frame_copy, (ROI_left, ROI_top), (ROI_right, ROI_bottom), (255,128,0), 3)
