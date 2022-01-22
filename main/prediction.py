@@ -4,7 +4,7 @@ import keras
 from keras.preprocessing.image import ImageDataGenerator
 import tensorflow as tf
 
-model = keras.models.load_model(r"E:\\Documents\\GitHub\\Express-U\\Model\\second_model\\model_second.h5")
+model = keras.models.load_model(r"D:\Final Year Project\Express-U\Model\second_model\model_second_vgg16.h5")
 
 background = None
 accumulated_weight = 0.5
