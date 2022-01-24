@@ -1,5 +1,5 @@
 
-![Logo](E:\Documents\GitHub\Express-U\Logo\Logo.jpeg)
+![Logo](https://user-images.githubusercontent.com/42748932/150782670-1b4cd69d-1abd-4868-8f7c-ae00294aff5d.png)
 
 
 # Express-U
@@ -17,7 +17,7 @@ We have a built an Sign Language Recognition program, which will detect the hand
 
 ## Screenshots
 
-![App Screenshot](E:\Documents\GitHub\Express-U\screenshots\output.jpg)
+![App Screenshot](https://user-images.githubusercontent.com/42748932/150782774-644ec891-5188-4f3c-857e-0f3b16912d37.png)
 
 
 ## Run Locally
