@@ -4,7 +4,7 @@
 
 # Express-U
 
-We have a built an Sign Language Recognition program, which will detect the hand signs in real time irrespective of the background using Computer Vision and Deep Learning.
+We have a built a Sign Language Recognition program, which will detect hand signs in real time irrespective of the background using Computer Vision and Deep Learning.
 
 
 
