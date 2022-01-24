@@ -55,7 +55,7 @@ Run
 
 ## Feedback
 
-If you have any feedback, please reach out to us at swastikpoojari21@.com
+If you have any feedback, please reach out to us at swastikpoojari21@gmail.com
 
 
 ## Support
