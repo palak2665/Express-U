@@ -1,0 +1,4 @@
+#Thu Apr 21 10:45:23 IST 2022
+base.0=D\:\\epu1-main\\build\\app\\intermediates\\transforms\\r8\\release\\0\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

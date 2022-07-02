@@ -1,0 +1,6 @@
+# Referenced at D:\epu1-main\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at D:\epu1-main\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:31
+-keep class com.example.examplerealtime.MainActivity { <init>(); }
+# Referenced at D:\epu1-main\build\app\intermediates\merged_manifests\release\AndroidManifest.xml:26
+-keep class io.flutter.app.FlutterApplication { <init>(); }

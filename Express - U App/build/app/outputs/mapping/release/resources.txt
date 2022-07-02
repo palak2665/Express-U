@@ -1,0 +1,766 @@
+android.content.res.Resources#getIdentifier present: true
+Web content present: false
+Referenced Strings:
+  %s
+  %s.%sParcelizer
+  0
+  0x%08x
+  ACCESSIBLE_NAVIGATION
+  ACTION_ARGUMENT_EXTEND_SELECTION_BOOLEAN
+  ACTION_ARGUMENT_MOVEMENT_GRANULARITY_INT
+  ACTION_ARGUMENT_SELECTION_END_INT
+  ACTION_ARGUMENT_SELECTION_START_INT
+  ACTION_ARGUMENT_SET_TEXT_CHARSEQUENCE
+  ALERT
+  AccessibilityBridge
+  AccessibilityChannel
+  AppLifecycleState.inactive
+  AppLifecycleState.paused
+  AppLifecycleState.resumed
+  BITMAP
+  BITMAP_MASKABLE
+  BOOL
+  BOTH
+  BOTTOM_OVERLAYS
+  Brightness.dark
+  Brightness.light
+  CAMERA_CLOSING
+  CANCELLED
+  CHARACTERS
+  CLICK
+  CLIP_PATH
+  CLIP_RECT
+  CLIP_RRECT
+  COPY
+  CUSTOM_ACTION
+  CUT
+  CameraAccess
+  ClickableViewAccessibility
+  Clipboard.getData
+  Clipboard.hasStrings
+  Clipboard.setData
+  DARK
+  DATA
+  DATETIME
+  DECREASE
+  DID_GAIN_ACCESSIBILITY_FOCUS
+  DID_LOSE_ACCESSIBILITY_FOCUS
+  DISABLE_ANIMATIONS
+  DISMISS
+  DartExecutor
+  DartMessenger
+  DeviceOrientation.landscapeLeft
+  DeviceOrientation.landscapeRight
+  DeviceOrientation.portraitDown
+  DeviceOrientation.portraitUp
+  EDGE_TO_EDGE
+  EMAIL_ADDRESS
+  ERROR
+  FLOAT32
+  FRAMEWORK_CLIENT
+  FlutterActivityDelegate
+  FlutterImageView
+  FlutterJNI
+  FlutterLoader
+  FlutterNativeView
+  FlutterRenderer
+  FlutterView
+  HAS_CHECKED_STATE
+  HAS_ENABLED_STATE
+  HAS_IMPLICIT_SCROLLING
+  HAS_TOGGLED_STATE
+  HC_PLATFORM_VIEW
+  HEAVY_IMPACT
+  HapticFeedback.vibrate
+  HapticFeedbackType.heavyImpact
+  HapticFeedbackType.lightImpact
+  HapticFeedbackType.mediumImpact
+  HapticFeedbackType.selectionClick
+  II
+  IMMERSIVE
+  IMMERSIVE_STICKY
+  INCREASE
+  INT16
+  INT32
+  INT64
+  INT8
+  INVERT_COLORS
+  IOError
+  IS_BUTTON
+  IS_CHECKED
+  IS_ENABLED
+  IS_FOCUSABLE
+  IS_FOCUSED
+  IS_HEADER
+  IS_HIDDEN
+  IS_IMAGE
+  IS_IN_MUTUALLY_EXCLUSIVE_GROUP
+  IS_KEYBOARD_KEY
+  IS_LINK
+  IS_LIVE_REGION
+  IS_OBSCURED
+  IS_READ_ONLY
+  IS_SELECTED
+  IS_SLIDER
+  IS_TEXT_FIELD
+  IS_TOGGLED
+  IconCompat
+  InlinedApi
+  InputConnectionAdaptor
+  KeyEventChannel
+  KeyboardManager
+  LANDSCAPE_LEFT
+  LANDSCAPE_RIGHT
+  LEAN_BACK
+  LEFT
+  LIGHT
+  LIGHT_IMPACT
+  LOCALE
+  LONG_PRESS
+  LTR
+  LifecycleChannel
+  ListenableEditingState
+  Localization.getStringResource
+  LocalizationChannel
+  MEDIUM_IMPACT
+  MOVE_CURSOR_BACKWARD_BY_CHARACTER
+  MOVE_CURSOR_BACKWARD_BY_WORD
+  MOVE_CURSOR_FORWARD_BY_CHARACTER
+  MOVE_CURSOR_FORWARD_BY_WORD
+  MULTILINE
+  MissingPermission
+  MouseCursorChannel
+  NAME
+  NAMES_ROUTE
+  NONE
+  NO_TARGET
+  NUMBER
+  NavigationChannel
+  NewApi
+  OPACITY
+  Override
+  PASTE
+  PENDING
+  PHONE
+  PLAIN_TEXT
+  PORTRAIT_DOWN
+  PORTRAIT_UP
+  POSTAL_ADDRESS
+  PathProviderPlugin
+  PlatformChannel
+  PlatformPlugin
+  PlatformViewsChannel
+  PlatformViewsController
+  PrivateApi
+  RESOURCE
+  RIGHT
+  RTL
+  RestrictedApi
+  SCOPES_ROUTE
+  SCROLL_DOWN
+  SCROLL_LEFT
+  SCROLL_RIGHT
+  SCROLL_UP
+  SELECTION_CLICK
+  SENTENCES
+  SET_SELECTION
+  SET_TEXT
+  SHOW_ON_SCREEN
+  SPELLOUT
+  SSDMobileNet
+  STANDARD
+  STRING
+  SettingsChannel
+  SystemChannel
+  SystemChrome.restoreSystemUIOverlays
+  SystemChrome.setApplicationSwitcherDe...
+  SystemChrome.setEnabledSystemUIMode
+  SystemChrome.setEnabledSystemUIOverlays
+  SystemChrome.setPreferredOrientations
+  SystemChrome.setSystemUIChangeListener
+  SystemChrome.setSystemUIOverlayStyle
+  SystemChrome.systemUIChange
+  SystemNavigator.pop
+  SystemSound.play
+  SystemSoundType.alert
+  SystemSoundType.click
+  SystemUiMode.edgeToEdge
+  SystemUiMode.immersive
+  SystemUiMode.immersiveSticky
+  SystemUiMode.leanBack
+  SystemUiOverlay.bottom
+  SystemUiOverlay.top
+  TAP
+  TEXT
+  TOP_OVERLAYS
+  TRANSFORM
+  TextCapitalization.characters
+  TextCapitalization.none
+  TextCapitalization.sentences
+  TextCapitalization.words
+  TextEditingDelta
+  TextInput.clearClient
+  TextInput.finishAutofillContext
+  TextInput.hide
+  TextInput.requestAutofill
+  TextInput.sendAppPrivateCommand
+  TextInput.setClient
+  TextInput.setEditableSizeAndTransform
+  TextInput.setEditingState
+  TextInput.setPlatformViewClient
+  TextInput.show
+  TextInputAction.done
+  TextInputAction.go
+  TextInputAction.newline
+  TextInputAction.next
+  TextInputAction.none
+  TextInputAction.previous
+  TextInputAction.search
+  TextInputAction.send
+  TextInputAction.unspecified
+  TextInputChannel
+  TextInputClient.performAction
+  TextInputClient.performPrivateCommand
+  TextInputClient.requestExistingInputS...
+  TextInputClient.updateEditingState
+  TextInputClient.updateEditingStateWit...
+  TextInputClient.updateEditingStateWit...
+  TextInputPlugin
+  TextInputType.address
+  TextInputType.datetime
+  TextInputType.emailAddress
+  TextInputType.multiline
+  TextInputType.name
+  TextInputType.none
+  TextInputType.number
+  TextInputType.phone
+  TextInputType.text
+  TextInputType.url
+  TextInputType.visiblePassword
+  UINT8
+  UNKNOWN
+  URI
+  URL
+  UTF8
+  VD_PLATFORM_VIEW
+  VISIBLE_PASSWORD
+  WORDS
+  WrongConstant
+  a
+  accessibility
+  action
+  actionLabel
+  activateSystemCursor
+  activity
+  addView
+  addressCity
+  addressCountry
+  addressLocality
+  addressRegion
+  addressState
+  alias
+  allScroll
+  alwaysUse24HourFormat
+  anchors
+  android
+  android.intent.action.RUN
+  android.permission.CAMERA
+  android.permission.RECORD_AUDIO
+  android.type.verbatim
+  android.util.LongArray
+  android.view.View
+  android.widget.Button
+  android.widget.CheckBox
+  android.widget.EditText
+  android.widget.HorizontalScrollView
+  android.widget.ImageView
+  android.widget.RadioButton
+  android.widget.ScrollView
+  android.widget.SeekBar
+  android.widget.Switch
+  announce
+  args
+  asynch
+  autocorrect
+  autofill
+  availableCameras
+  b
+  back
+  background
+  base
+  basic
+  binary
+  birthDateDay
+  birthDateFull
+  birthDateMonth
+  birthDateYear
+  birthday
+  birthdayDay
+  birthdayMonth
+  birthdayYear
+  blockSize
+  bool
+  byte
+  bytes
+  bytesList
+  bytesPerPixel
+  bytesPerRow
+  c
+  c.a.c.a.c$c
+  c.a.c.a.k
+  camera
+  cameraAccess
+  cameraName
+  cameraPermission
+  cancel
+  captureFailure
+  cell
+  character
+  clearFocus
+  cleartextTrafficPermitted
+  click
+  clipboard
+  close
+  codePoint
+  com.google.common.base.Strings
+  composingBase
+  composingExtent
+  confidence
+  confidenceInClass
+  contextMenu
+  copy
+  countryName
+  create
+  creditCardExpirationDate
+  creditCardExpirationDay
+  creditCardExpirationMonth
+  creditCardExpirationYear
+  creditCardNumber
+  creditCardSecurityCode
+  dark
+  data
+  decimal
+  deltaEnd
+  deltaStart
+  deltaText
+  deltas
+  detectObjectOnBinary
+  detectObjectOnFrame
+  detectObjectOnImage
+  detectedClass
+  deviceId
+  direction
+  display
+  dispose
+  domain
+  editingValue
+  email
+  emailAddress
+  enableAudio
+  enableDeltaModel
+  enableIMEPersonalizedLearning
+  enableSuggestions
+  error
+  errorDescription
+  eventType
+  extendedAddress
+  extendedPostalCode
+  extent
+  external
+  false
+  familyName
+  fields
+  file://
+  fileExists
+  filePath
+  flags
+  float
+  flutter
+  flutter.io/cameraPlugin/cameraEvents
+  flutter/accessibility
+  flutter/isolate
+  flutter/keyevent
+  flutter/lifecycle
+  flutter/localization
+  flutter/mousecursor
+  flutter/navigation
+  flutter/platform
+  flutter/platform_views
+  flutter/settings
+  flutter/system
+  flutter/textinput
+  flutter_assets
+  forbidden
+  format
+  front
+  fullStreetAddress
+  gender
+  get
+  getApplicationDocumentsDirectory
+  getApplicationSupportDirectory
+  getChildId
+  getExternalCacheDirectories
+  getExternalStorageDirectories
+  getJavaLangAccess
+  getParentNodeId
+  getResId
+  getResPackage
+  getSourceNodeId
+  getStackTraceDepth
+  getStackTraceElement
+  getStorageDirectory
+  getTemporaryDirectory
+  givenName
+  grab
+  grabbing
+  guava.concurrent.generate_cancellatio...
+  h
+  handled
+  height
+  help
+  high
+  hintText
+  hints
+  hybrid
+  id
+  imageHeight
+  imageMean
+  imageStd
+  imageWidth
+  includeSubdomains
+  index
+  initialize
+  inputAction
+  inputType
+  input_method
+  int
+  io.flutter.app.android.SplashScreenUn...
+  io.flutter.embedding.android.EnableSk...
+  io.flutter.embedding.android.OldGenHe...
+  io.flutter.plugins.camera.CameraPlugin
+  io.flutter.plugins.pathprovider.PathP...
+  isAsset
+  java.
+  key
+  keyCode
+  keydown
+  keymap
+  keypoints
+  keyup
+  kind
+  label
+  labelColors
+  labels
+  leftAnkle
+  leftEar
+  leftElbow
+  leftEye
+  leftHip
+  leftKnee
+  leftShoulder
+  leftWrist
+  lensFacing
+  libapp.so
+  libflutter.so
+  light
+  listen
+  loadModel
+  locale
+  long
+  longPress
+  low
+  mChildNodeIds
+  main
+  makeBackgroundTaskQueue
+  max
+  medium
+  memoryPressure
+  message
+  metaState
+  method
+  middleInitial
+  middleName
+  model
+  move
+  name
+  namePrefix
+  nameSuffix
+  newPassword
+  newUsername
+  nmsRadius
+  noDrop
+  nodeId
+  none
+  nose
+  numBoxesPerBlock
+  numResults
+  numResultsPerClass
+  numThreads
+  obscureText
+  off
+  oldText
+  on
+  oneTimeCode
+  org.tensorflow.lite.flex.FlexDelegate
+  outputType
+  overlay
+  params
+  part
+  partId
+  password
+  path
+  pauseVideoRecording
+  personFamilyName
+  personGivenName
+  personMiddleInitial
+  personMiddleName
+  personName
+  personNamePrefix
+  personNameSuffix
+  phoneCountryCode
+  phoneNational
+  phoneNumber
+  phoneNumberDevice
+  plainCodePoint
+  planes
+  platformBrightness
+  platformViewId
+  plugins.flutter.io/camera
+  plugins.flutter.io/camera/imageStream
+  plugins.flutter.io/path_provider
+  png
+  popRoute
+  postalAddress
+  postalAddressExtended
+  postalAddressExtendedPostalCode
+  postalCode
+  precise
+  prepareForVideoRecording
+  previewHeight
+  previewWidth
+  primaryColor
+  productId
+  read
+  rect
+  removeView
+  removeViewImmediate
+  repeatCount
+  resize
+  resizeColumn
+  resizeDown
+  resizeDownRight
+  resizeLeft
+  resizeLeftRight
+  resizeRight
+  resizeRow
+  resizeUp
+  resizeUpDown
+  resizeUpLeft
+  resizeUpLeftDownRight
+  resizeUpRight
+  resizeUpRightDownLeft
+  resolutionPreset
+  resumeVideoRecording
+  rightAnkle
+  rightEar
+  rightElbow
+  rightEye
+  rightHip
+  rightKnee
+  rightShoulder
+  rightWrist
+  rotation
+  route
+  runModelOnBinary
+  runModelOnFrame
+  runModelOnImage
+  runPix2PixOnBinary
+  runPix2PixOnFrame
+  runPix2PixOnImage
+  runPoseNetOnBinary
+  runPoseNetOnFrame
+  runPoseNetOnImage
+  runSegmentationOnBinary
+  runSegmentationOnFrame
+  runSegmentationOnImage
+  scanCode
+  score
+  selectionBase
+  selectionExtent
+  sensorOrientation
+  setDirection
+  setInitialRoute
+  setLocale
+  short
+  signed
+  smsOTPCode
+  source
+  sq.flutter.tflite.TflitePlugin
+  startImageStream
+  startVideoRecording
+  statusBarColor
+  statusBarIconBrightness
+  stopImageStream
+  stopVideoRecording
+  streetAddress
+  string
+  success
+  sun.misc.JavaLangAccess
+  sun.misc.SharedSecrets
+  synchronizeToNativeViewHierarchy
+  systemNavigationBarColor
+  systemNavigationBarContrastEnforced
+  systemNavigationBarDividerColor
+  systemNavigationBarIconBrightness
+  systemStatusBarContrastEnforced
+  takePicture
+  tap
+  telephoneNumber
+  telephoneNumberCountryCode
+  telephoneNumberDevice
+  telephoneNumberNational
+  tensorflowlite_gpu_jni
+  tensorflowlite_jni
+  tensorflowlite_jni_stable
+  text
+  text/plain
+  textCapitalization
+  textScaleFactor
+  textureId
+  tflite
+  threshold
+  time
+  tooltip
+  touch
+  transform
+  transition_animation_scale
+  type
+  ultraHigh
+  uniqueIdentifier
+  unknown
+  updateViewLayout
+  useGpuDelegate
+  username
+  usesVirtualDisplay
+  value
+  vendorId
+  verticalText
+  veryHigh
+  videoRecordingFailed
+  viewFocused
+  viewType
+  w
+  wait
+  width
+  window
+  write
+  x
+  y
+  zoomIn
+  zoomOut
+Marking id:action_container:2131034112 used because its prefix matches string pool constant action
+Marking id:action_divider:2131034113 used because its prefix matches string pool constant action
+Marking id:action_image:2131034114 used because its prefix matches string pool constant action
+Marking id:action_text:2131034115 used because its prefix matches string pool constant action
+Marking id:actions:2131034116 used because its prefix matches string pool constant action
+Marking id:text:2131034136 used because its prefix matches string pool constant text
+Marking id:text2:2131034137 used because its prefix matches string pool constant text
+Marking attr:android_color:-1 used because its prefix matches string pool constant android
+Marking attr:android_alpha:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontStyle:-1 used because its prefix matches string pool constant android
+Marking attr:android_font:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontWeight:-1 used because its prefix matches string pool constant android
+Marking attr:android_fontVariationSettings:-1 used because its prefix matches string pool constant android
+Marking attr:android_ttcIndex:-1 used because its prefix matches string pool constant android
+Marking attr:android_startColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_endColor:-1 used because its prefix matches string pool constant android
+Marking attr:android_type:-1 used because its prefix matches string pool constant android
+Marking attr:android_gradientRadius:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerX:-1 used because its prefix matches string pool constant android
+Marking attr:android_centerY:-1 used because its prefix matches string pool constant android
+Marking attr:android_startX:-1 used because its prefix matches string pool constant android
+Marking attr:android_startY:-1 used because its prefix matches string pool constant android
+Marking attr:android_endX:-1 used because its prefix matches string pool constant android
+Marking attr:android_endY:-1 used because its prefix matches string pool constant android
+Marking attr:android_tileMode:-1 used because its prefix matches string pool constant android
+Marking attr:android_offset:-1 used because its prefix matches string pool constant android
+Marking id:time:2131034138 used because its prefix matches string pool constant time
+Resource Reference Graph:
+color:notification_action_color_filter:2130837504 => [color:secondary_text_default_material_light:2130837507]
+dimen:notification_media_narrow_margin:2130903054 => [dimen:notification_content_margin_start:2130903050]
+drawable:notification_action_background:2130968577 => [color:ripple_material_light:2130837506, dimen:compat_button_inset_vertical_material:2130903041, dimen:compat_button_inset_horizontal_material:2130903040, dimen:compat_control_corner_material:2130903044, dimen:compat_button_padding_vertical_material:2130903043, dimen:compat_button_padding_horizontal_material:2130903042]
+drawable:notification_bg:2130968578 => [drawable:notification_bg_normal_pressed:2130968583, drawable:notification_bg_normal:2130968582]
+drawable:notification_bg_low:2130968579 => [drawable:notification_bg_low_pressed:2130968581, drawable:notification_bg_low_normal:2130968580]
+drawable:notification_icon_background:2130968584 => [color:notification_icon_bg_color:2130837505]
+drawable:notification_tile_bg:2130968587 => [drawable:notify_panel_notification_icon_bg:2130968588]
+layout:notification_action:2131165184 => [style:Widget_Compat_NotificationActionContainer:2131361798, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131361799]
+layout:notification_action_tombstone:2131165185 => [style:Widget_Compat_NotificationActionContainer:2131361798, dimen:notification_action_icon_size:2130903047, style:Widget_Compat_NotificationActionText:2131361799]
+layout:notification_template_custom_big:2131165186 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, layout:notification_template_icon_group:2131165187, dimen:notification_right_side_padding_top:2130903056, layout:notification_template_part_time:2131165189, layout:notification_template_part_chronometer:2131165188, style:TextAppearance_Compat_Notification_Info:2131361794]
+layout:notification_template_icon_group:2131165187 => [dimen:notification_large_icon_height:2130903051, dimen:notification_large_icon_width:2130903052, dimen:notification_big_circle_margin:2130903049, dimen:notification_right_icon_size:2130903055]
+layout:notification_template_part_chronometer:2131165188 => [style:TextAppearance_Compat_Notification_Time:2131361796]
+layout:notification_template_part_time:2131165189 => [style:TextAppearance_Compat_Notification_Time:2131361796]
+style:LaunchTheme:2131361792 => [drawable:launch_background:2130968576]
+style:TextAppearance_Compat_Notification_Info:2131361794 => [style:TextAppearance_Compat_Notification:2131361793, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:TextAppearance_Compat_Notification_Line2:2131361795 => [style:TextAppearance_Compat_Notification_Info:2131361794]
+style:TextAppearance_Compat_Notification_Time:2131361796 => [style:TextAppearance_Compat_Notification:2131361793, style:TextAppearance_Compat:-1, style:TextAppearance:-1]
+style:Widget_Compat_NotificationActionContainer:2131361798 => [drawable:notification_action_background:2130968577]
+style:Widget_Compat_NotificationActionText:2131361799 => [color:secondary_text_default_material_light:2130837507, dimen:notification_action_text_size:2130903048]
+
+The root reachable resources are:
+id:action_container:2131034112,
+   id:action_divider:2131034113,
+   id:action_image:2131034114,
+   id:action_text:2131034115,
+   id:actions:2131034116,
+   id:text:2131034136,
+   id:text2:2131034137,
+   id:time:2131034138,
+   mipmap:ic_launcher:2131230720,
+   style:LaunchTheme:2131361792,
+   attr:android_color:-1,
+   attr:android_alpha:-1,
+   attr:android_fontStyle:-1,
+   attr:android_font:-1,
+   attr:android_fontWeight:-1,
+   attr:android_fontVariationSettings:-1,
+   attr:android_ttcIndex:-1,
+   attr:android_startColor:-1,
+   attr:android_centerColor:-1,
+   attr:android_endColor:-1,
+   attr:android_type:-1,
+   attr:android_gradientRadius:-1,
+   attr:android_centerX:-1,
+   attr:android_centerY:-1,
+   attr:android_startX:-1,
+   attr:android_startY:-1,
+   attr:android_endX:-1,
+   attr:android_endY:-1,
+   attr:android_tileMode:-1,
+   attr:android_offset:-1
+Skipped unused resource res/drawable-v21/notification_action_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_bg_low.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_icon_background.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable/notification_tile_bg.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_low_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal.9.png: 215 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png: 223 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png: 98 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_low_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal.9.png: 212 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png: 225 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png: 107 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png: 252 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal.9.png: 221 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png: 247 bytes (replaced with small dummy file of size 77 bytes)
+Skipped unused resource res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png: 138 bytes (replaced with small dummy file of size 67 bytes)
+Skipped unused resource res/layout-v21/notification_action.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_action_tombstone.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_custom_big.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout-v21/notification_template_icon_group.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_chronometer.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
+Skipped unused resource res/layout/notification_template_part_time.xml: -1 bytes (replaced with small dummy file of size 104 bytes)
